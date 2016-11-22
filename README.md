@@ -5,4 +5,6 @@
 
 克隆或者下载下来之后，艹NPM  i 一下 然后就能npm run dev 运行了。
 
+[在线预览](https://a13821190779.github.io/vue_spa/index.html)
+
 [我的简书](http://www.jianshu.com/users/a06400d06b38/latest_articles)
